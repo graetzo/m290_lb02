@@ -1,0 +1,21 @@
+.header-logo{
+    height: 100px; width: auto;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 24%;
+    margin-top: 7%;
+}
+
+.htgawm-font{
+    font-family: 'Cormorant', serif;
+}
+
+.htgawm-red{
+    color: red;
+}
+
+.logo-small{
+    height: 40px;
+    width: auto;
+}
+
